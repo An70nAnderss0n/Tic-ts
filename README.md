@@ -1,4 +1,4 @@
-# Tic-vanilla
+# Tic-typescript
 
 Tic-vanilla is a tic-tac-toe written in Typescript.
 
