@@ -12,7 +12,7 @@ export type Move = {
 
 export type GameStatus = {
   isComplete: boolean;
-  winner: Player;
+  winner: Player | null;
 };
 
 export type Game = {
